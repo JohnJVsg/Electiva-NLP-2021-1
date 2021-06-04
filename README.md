@@ -7,4 +7,39 @@ Mi nombre es John Jairo Garzón, soy Ingeniero Industrial con una experiencia de
 
 En el actual portafolio, podras encontrar los proyectos que desarrolle durante la asignatura de Natural Language Proccessing en el segundo semestre de la maestría.
 
-Bienvenid@ :)
+Bienvenid@ :) A continuación un resumen de los proyectos del portafolio.
+
+
+Taller 2
+  Adquisición de Textos.
+  
+Taller 3
+  Web Scrapping.
+  
+Taller 4
+  Feature Engineering y Bolsa de palabras.
+  
+Taller 5
+  Matriz TF-IDF.
+  
+Taller 7
+  Clasificación de Textos a través de modelo de Arbol de Decisión.
+  
+Taller 8
+  Agrupación de Textos y modelo K-Means.
+  
+Taller 9
+  Modelado de Temas.
+  
+Taller 10
+  Visualización en Nube de Palabras.
+  
+Taller 11
+  Twitter, extracción de Tweets y Nube de resultados.
+  
+Taller 12
+  Analisis de Sentimientos.
+
+
+
+  
