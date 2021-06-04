@@ -30,9 +30,7 @@ Taller 8
   
 Taller 9
   Modelado de Temas.
-  
-Proyecto de Trabajo Final. 
-  
+   
 Taller 10
   Visualización en Nube de Palabras.
   
@@ -42,6 +40,4 @@ Taller 11
 Taller 12
   Analisis de Sentimientos.
 
-
-
-  
+Proyecto de Trabajo Final. 
