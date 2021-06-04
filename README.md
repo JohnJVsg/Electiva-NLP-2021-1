@@ -31,6 +31,8 @@ Taller 8
 Taller 9
   Modelado de Temas.
   
+Proyecto de Trabajo Final. 
+  
 Taller 10
   Visualización en Nube de Palabras.
   
