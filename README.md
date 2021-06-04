@@ -7,4 +7,4 @@ Mi nombre es John Jairo Garzón, soy Ingeniero Industrial con una experiencia de
 
 En el actual portafolio, podras encontrar los proyectos que desarrolle durante la asignatura de Natural Language Proccessing en el segundo semestre de la maestría.
 
-Bienvenido :)
+Bienvenid@ :)
